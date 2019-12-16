@@ -14,5 +14,5 @@ Aktualizacje będą robione co tydzień +- w zależności od ilości wolnego cza
 > 16.12.2019 | Optymalizacja kodu oraz naprawa błędów w kodzie. | Stworzenie podstawy działania gry.
 
 # Planowane aktualizacje
-> 23.12.2019 | Stworzenie systemu tworzenia bohatera, zapisu oraz wczytywania gry, Dopracowanie szczegółów, naprawa błędów.
+> 23.12.2019 | Stworzenie systemu tworzenia bohatera, zapisu oraz wczytywania gry, Dopracowanie szczegółów, naprawa błędów.  
 > 1.1.2020   | Planowane oficjalne wydanie gry wraz z instalatorem.

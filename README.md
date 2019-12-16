@@ -8,9 +8,9 @@
 Aktualizacje będą robione co tydzień +- w zależności od ilości wolnego czasu jaki będę miał.
 
 # Lista zmian
-> 1.12.2019   | Rozpoczęcie projektu.                                                                  
-> 2.12.2019   | Stworzenie systemu plików przechowującego zawartość językową gry oraz jej informacje.  
-> 9.12.2019   | Stworzenie systemu sprawdzania plików.                                                
+> 1.12.2019  | Rozpoczęcie projektu.                                                                  
+> 2.12.2019  | Stworzenie systemu plików przechowującego zawartość językową gry oraz jej informacje.  
+> 9.12.2019  | Stworzenie systemu sprawdzania plików.                                                
 > 16.12.2019 | Optymalizacja kodu oraz naprawa błędów w kodzie. | Stworzenie podstawy działania gry.
 
 # Planowane aktualizacje
